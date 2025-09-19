@@ -1,0 +1,5 @@
+full_name = "Kamryn Strain"
+student_email = "krstrain1@aggies.ncat.edu"
+student_hometown = "Charlotte, NC"
+grad_semester = "Spring 2029"
+student_major = "Computer Science"
